@@ -1,12 +1,12 @@
 ghost:
   username: qione
   name: qione
-  url_full: http://jekyller.github.io/jasper2/
-  url: jekyller.github.io/jasper2
+  url_full: https://qione.github.io/
+  url:
   bio: The professional publishing platform
   picture: assets/images/ghost.png
-  facebook: ghost
-  twitter: tryghost
+  facebook:
+  twitter:
   cover: False
 hannah:
   username: hannah

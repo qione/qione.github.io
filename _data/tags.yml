@@ -1,16 +1,16 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
+sql:
+  name: sql
+  description: False
   cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
+projects:
+  name: projects
   description: False
   cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
+machine-learning:
+  name: machine-learning
+  description: False
   cover: assets/images/fables.jpg
-getting-started:
-  name: getting-started
+algorithm:
+  name: algorithm
   description: False
   cover: False
