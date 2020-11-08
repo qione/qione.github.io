@@ -9,7 +9,7 @@ projects:
 machine-learning:
   name: machine-learning
   description: False
-  cover: assets/images/fables.jpg
+  cover: False
 algorithm:
   name: algorithm
   description: False

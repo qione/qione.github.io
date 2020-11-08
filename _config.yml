@@ -73,15 +73,15 @@ lsi: False
 username: qione
 repo: qione.github.io
 branch: master
-relative_source: ./output/
+relative_source:
 # 만약 Travis-CI를 이용할 예정이면 이 부분을 git submodule로
 # github repository(https://username.github.io)에 연결해야 한다.
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+destination: ../[GitHubPage]/
+production_url:  https://qione.github.io/
+source_url:  https://github.com/qione/qione.github.io/
 
 exclude:
-  - assets/css
+#  - assets/css
   - node_modules
   - vendor
   - .travis.yml
@@ -100,8 +100,7 @@ exclude:
   - .git*
   - changelog.md
   - .travis.yml
-  - assets/css
-  - assets/images
+#  - assets/images
   - _posts/angular
   - _posts/et-cetera
   - _posts/python
